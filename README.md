@@ -30,5 +30,5 @@ A Streamlit-based AI chatbot powered by **LangChain** and **Groq LLMs** that can
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/langchain-chat-search.git
+git clone https://github.com/Adarshajoshi/Langchain-chat-search
 cd langchain-chat-search
